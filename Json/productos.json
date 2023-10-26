@@ -1,0 +1,74 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "tipo": "Camiseta",
+      "titulo": "Camiseta Local",
+      "img": "/img/camiseta-local.png",
+      "precio": 46
+    },
+    {
+      "id": 2,
+      "tipo": "Camiseta",
+      "titulo": "Camiseta Visitante",
+      "img": "/img/camiseta-de-futbol.png",
+      "precio": 46
+    },
+    {
+      "id": 3,
+      "tipo": "Chaqueta",
+      "titulo": "Chaqueta del Equipo",
+      "img": "/img/chaqueta.png",
+      "precio": 66
+    },
+    {
+      "id": 4,
+      "tipo": "Pantaloneta",
+      "titulo": "Pantaloneta Local",
+      "img": "/img/shorts-local.png",
+      "precio": 29.99
+    },
+    {
+      "id": 5,
+      "tipo": "Pantaloneta",
+      "titulo": "Pantaloneta Visitante",
+      "img": "/img/shorts-visitante.png",
+      "precio": 29.99
+    },
+    {
+      "id": 6,
+      "tipo": "Calzado",
+      "titulo": "Zapatillas Deportivas",
+      "img": "/img/zapato-futbol.png",
+      "precio": 119
+    },
+    {
+      "id": 7,
+      "tipo": "Accesorios",
+      "titulo": "Bufanda del Equipo",
+      "img": "/img/bufanda.png",
+      "precio": 29.99
+    },
+    {
+      "id": 8,
+      "tipo": "Accesorios",
+      "titulo": "Gorra del Equipo",
+      "img": "/img/gorra.png",
+      "precio": 19.99
+    },
+    {
+      "id": 9,
+      "tipo": "Accesorios",
+      "titulo": "Bandera del Equipo",
+      "img": "/img/bandera.png",
+      "precio": 14.99
+    },
+    {
+      "id": 10,
+      "tipo": "Accesorios",
+      "titulo": "Balón del Equipo",
+      "img": "/img/balon.png",
+      "precio": 24.99
+    }
+  ]
+}
